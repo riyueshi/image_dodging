@@ -6,8 +6,8 @@
 //L(light) channel.
 //Author: Miller Zhang
 //Email: imriyueshi@163.com
-//Project Site:
-//Github Link:
+//Project Site: 
+//Github Link: https://github.com/riyueshi/image_dodging/
 ///////////////////////////////////////////////////////////////////////////////
 
 #include <opencv2/highgui/highgui.hpp>
