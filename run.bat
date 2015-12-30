@@ -1,0 +1,1 @@
+opencv30_test.exe "D:\\temp\\OrthoPhoto\\DSC05717_rec.tif" "tif" "D:\\temp\\OrthoPhoto" "D:\\temp\\OrthoPhoto\\out"
