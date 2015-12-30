@@ -1,1 +1,1 @@
-opencv30_test.exe "ref.jpg" "jpg" "img" "img\\out"
+image_dodging.exe "ref.jpg" "jpg" "img" "img\\out"
